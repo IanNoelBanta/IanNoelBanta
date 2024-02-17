@@ -1,7 +1,8 @@
-<h2 align="center">Hi there 👋 </h2>
+<h2 align="center"> Hi there 👋 </h2>
 
-### **This is me!**
-<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif">
+<h2 align="center"> This is me! </h2>
+
+<p align="center"><img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif"></p>
 
 ## **Here are some ideas to get you started:**
 

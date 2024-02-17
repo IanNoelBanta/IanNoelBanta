@@ -2,9 +2,9 @@
 
 <h2 align="center"> This is me! </h2>
 
-<p align="center"><img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif"></p>
+<p align="center"> <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif"></p>
 
-## **Here are some ideas to get you started:**
+<p align="center"> Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to learn.
@@ -14,6 +14,8 @@
 - 📫 How to reach me: You can't. Don't reach young blood.
 - 😄 Pronouns: He/Him/Dog/Cat
 - ⚡ Fun fact: There's nothing fun about me.
+
+</p>
   
 ## **My Github Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanNoelBanta)](https://github.com/anuraghazra/github-readme-stats)

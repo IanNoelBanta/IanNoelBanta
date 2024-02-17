@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<img align="right" alt="Coding" width="400" src="[add your link 
+here](https://gifdb.com/gif/matrix-background-hackerman-j47lwaq6pwv67oyg.html?embed=true)">
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanNoelBanta)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IanNoelBanta)](https://github.com/ryo-ma/github-profile-trophy)

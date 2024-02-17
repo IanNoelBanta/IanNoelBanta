@@ -1,5 +1,5 @@
-<h2 style="text-align: center;">Hi there 👋 </h2>
-<p align="center">hatdog</p>
+<h2 align="center">Hi there 👋 </h2>
+
 ### **This is me!**
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif">
 

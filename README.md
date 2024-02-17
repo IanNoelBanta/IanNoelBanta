@@ -16,11 +16,11 @@
 - ⚡ Fun fact: There's nothing fun about me.
 
 <h2 align="center"> My Github Stats </h2>
-<p align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanNoelBanta)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=IanNoelBanta)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 <!--
 **IanNoelBanta/IanNoelBanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

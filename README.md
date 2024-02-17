@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" alt="Coding" width="400" src="https://gifdb.com/gif/matrix-background-hackerman-j47lwaq6pwv67oyg.html?embed=true">
+<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/matrix-background-hackerman-j47lwaq6pwv67oyg.gif">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanNoelBanta)](https://github.com/anuraghazra/github-readme-stats)

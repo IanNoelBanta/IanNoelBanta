@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to learn.
 - 👯 I’m looking to collaborate on cool things .
-- 🤔 I’m looking for help with thesis.
+- 🤔 I’m looking for help with our thesis.
 - 💬 Ask me about anything.
-- 📫 How to reach me: You can't.
+- 📫 How to reach me: You can't. Don't reach young blood.
 - 😄 Pronouns: He/Him/Dog/Cat
 - ⚡ Fun fact: There's nothing fun about me.
   
